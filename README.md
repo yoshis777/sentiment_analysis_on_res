@@ -22,5 +22,5 @@ python main.py <掲示板のID>
  {'res': {'message': '...', 'res_num': '2'},
   'result': {'label': 'ポジティブ', 'score': 0.9831962585449219}},
  {'res': {'message': '...', 'res_num': '3'},
-  'result': {'label': 'ポジティブ', 'score': 0.9763979911804199}},
+  'result': {'label': 'ポジティブ', 'score': 0.9763979911804199}}]
 ```
